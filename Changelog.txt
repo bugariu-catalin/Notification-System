@@ -1,0 +1,4 @@
+This file documents changes in the software, firmware and hardware of the
+Notification System device. New entries are always appended to the end of the file.
+Scroll down to the bottom to see the most recent changes.
+
